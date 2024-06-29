@@ -2,7 +2,7 @@
 
 ## Detalhes
 
-A aplicação é uma SPA feita usando React de uma lista de tarefas com 1 entidade, tarefa, com todas as operações de CRUD.
+A aplicação é uma SPA feita usando React de uma lista de tarefas com 1 entidade, tarefa, com todas as operações de CRUD, o backend utiliza-se de C# e .NET com um banco de dados In-memory, a tarefa possui seu campo de texto chamado descrição, e no front apresenta-se todas as tarefas que já foram adicionadas e estão salvas na API.
 
 ## Imagens da Aplicação em Funcionamento
 
